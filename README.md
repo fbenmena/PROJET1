@@ -2,4 +2,5 @@
 
 Ce dépôt contient des projets de NSI.
 
-## Le Travail de prise en main de github (date 25-11-2025)
+## Le Travail de prise en main de github
+Ajout du code de la fonction monnayeur.
